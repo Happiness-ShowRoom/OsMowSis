@@ -16,3 +16,4 @@ Group 35
 
 * Hover over a mower and a tooltip will say its current energy level
 * The allow CORS plugin should be installed and turned on for the front end to communicate with the backend. This should already be done in the submitted VM image by default
+* Virtual machine and design documents are available at https://drive.google.com/drive/folders/1p9rwCAz8V9-81SbL914zavzFy36qhTDD
