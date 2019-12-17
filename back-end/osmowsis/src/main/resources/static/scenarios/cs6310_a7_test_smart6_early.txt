@@ -1,0 +1,14 @@
+15
+10
+5
+4,2,southwest,1
+5,3,southwest,1
+6,4,southwest,1
+7,5,southwest,1
+8,6,southwest,1
+75
+2
+8,2
+4,6
+5
+300
